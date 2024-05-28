@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.iconbar-ver{
+    width: 80px;
+    background-color: #555;
+}
+.iconbar-ver a{
+    display: block;
+    text-align: center;
+    padding: 15px;transition: all 0.3s ease;
+    color: white;
+    font-size: 32px;
+}
+
+.iconbar-ver a:hover{
+    background-color: #000;
+}
+.active{
+    background-color: #04aa60;
+}
